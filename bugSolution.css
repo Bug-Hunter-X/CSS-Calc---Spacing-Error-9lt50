@@ -1,0 +1,8 @@
+/* bugSolution.css */
+
+#myElement {
+  width: calc(100% - 20px);
+  background-color: lightblue;
+  padding: 10px;
+}
+/* No spaces around the `-` operator */
